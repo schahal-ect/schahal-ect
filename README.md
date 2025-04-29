@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Saket Chahal
 
-<!--
-**schahal-ect/schahal-ect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate Computer Engineering Technology student at Seneca Polytechnic, focused on building real-world IoT, Python, and Cloud solutions.
 
-Here are some ideas to get you started:
+🌐 Recently completed:
+- **Web-Based Fan Controller**: IoT project using Raspberry Pi, Flask, and PWM control.
+- **Weather Analytics Platform**: Python-based data parsing and visualization hosted on Raspberry Pi with NGINX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technical Skills:
+- Python, Flask, Pandas, NumPy
+- Git, GitHub
+- IoT Systems, Raspberry Pi GPIO
+- HTML, CSS
+- Cloud Platforms: Microsoft Azure (Basic)
+
+💡 Currently learning: Cloud Automation, Advanced Python Scripting, Server Hosting.
+
+📫 Let's Connect:
+- LinkedIn: https://www.linkedin.com/in/saket-chahal-3a478625b/
+
+
